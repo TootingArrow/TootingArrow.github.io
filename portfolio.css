@@ -1,0 +1,104 @@
+* {
+    font-family: 'Poltawski Nowy', serif;
+    margin: 0px;
+    padding: 0px;
+    top: 0px;
+
+}
+
+
+.all {
+    background-color: rgb(33, 33, 33);
+    color: azure;
+}
+
+
+
+.container-fluid {
+    background-color: black;
+
+}
+
+.name-desc {
+    color: azure;
+    margin-top: 200px;
+}
+
+.profile-name {
+    font-size: 50px;
+}
+
+.profile-text {
+    font-size: 20px;
+    line-height: 23px;
+}
+
+.profile-img {
+    width: 350px;
+    margin-top: 100px;
+    margin-left: 110px;
+
+
+}
+
+.profile-name-span {
+    color: red;
+}
+
+.navbar-brand {
+    color: azure;
+
+}
+
+.extra-left-title {
+    font-size: 35px;
+}
+
+.extra-left-title-span {
+    color: red;
+}
+
+.extra-left-list {
+    font-size: 25px;
+    line-height: 40px;
+    list-style: circle;
+}
+
+.extra {
+    margin-top: 150px;
+}
+
+.extra-right-img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+.extra-right-title {
+    font-size: 35px;
+
+}
+
+.extra-right-project-title {
+    font-size: 25px;
+}
+
+.extra-right-project-title-span {
+    font-size: 19px;
+}
+
+.extra-right-project-image-desc {
+    font-size: 5px;
+    margin-left: 225px;
+}
+
+.extra-right-project-desc-title {
+    font-size: 25px;
+    margin-top: 5px;
+}
+
+.extra-right-project-desc {
+    font-size: 18px;
+    margin-top: 5px;
+    line-height: 19px;
+}
